@@ -12,3 +12,12 @@ The main file is `dissertation_main.tex`, and this will show you how to organise
 Please contact with me if you meet any problems in using the template either through pull requests, github issues or emails (songyuhui0114@gmail.com).
 
 Aslo in this path, I will keep up making more useful and beautiful templates if someone on the platform or others in my university like the template.
+
+# Requirements
+
+For this template you will need the beautiful Lato font for headings and also algorithm typesetting from the science packages.  This sans font creates a pleasing contrast with the serif text.  `lato.sty` can be installed (on Ubuntu) with:
+
+```
+sudo apt install texlive-fonts-extra texlive-science
+
+```
