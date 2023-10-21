@@ -3,7 +3,7 @@
 It's maybe the best choice for you to take notes or finish dissertations, definitely a great template for all people in my university! 
 We can first have a good look at it quickly:
 
-<img src="images/photo_2023-10-21_15-29-55.jpg" width="400"><img src="images/photo_2023-10-21_15-29-55.jpg" width="400">
+<img src="images/pg1.jpg" width="400"><img src="images/pg2.jpg" width="400">
 
 A modern, highly configurable assignment/project/fyp/dissertation/thesis template for the China University of Petroleum, Beijing.  (In reality, there is nothing specific to the China University of Petroleum, and this LaTeX class may be used anywhere).  This template is loosely based on my summer-research Thesis at the Lomonosov Moscow State University, which was loosely based on Dr. Jean.p.Ebejer's D.Phil. Thesis at the University of Oxford, which was loosely based on ...  You get the drift.
 
