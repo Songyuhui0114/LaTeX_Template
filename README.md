@@ -1,7 +1,7 @@
 # China University of Petroleum, Beijing &ndash; LaTeX Dissertation (or Thesis) Template (as for your notes or papers)
 
 It's maybe the best choice for you to take notes or finish dissertations, definitely a great template for all people in my university! 
-We can first have a good look at it quickly:
+We can first have a good look at it quickly:(https://github.com/Songyuhui0114/LaTeX_Template)
 
 <img src="images/pg1.png" width="400"><img src="images/pg2.png" width="400">
 
